@@ -1,0 +1,4 @@
+{
+	"presets" : ["react"],
+	"plugins": ["transform-object-rest-spread", "transform-class-properties", "transform-es2015-arrow-functions", "react-hot-loader/babel"]
+}
